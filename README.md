@@ -9,7 +9,7 @@ A step-by-step implementation of LangGraph agents, from a single node to a multi
 |---|---|
 | `langgraph_lab.ipynb` | The executed notebook, with outputs |
 | `README.md` | This file (setup, how to run, design choices) |
-| `report.docx` | Short report answering the conceptual questions |
+| `report.pdf` | Short report answering the conceptual questions |
 | `screenshots/` | Execution screenshots and graph diagrams |
 | `screenshots/Architecture_diagram.png` | Architecture of the final assistant (`show_graph(assistant)`) |
 
